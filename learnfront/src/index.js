@@ -1,4 +1,7 @@
-import math from "./math.js";
+import { createApp } from 'vue';
 
-let answer = math.add(2, 4);
-console.log(answer);
+import App from "./App.vue";
+
+const app = createApp(App);
+
+app.mount("#app");

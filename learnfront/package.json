@@ -16,6 +16,7 @@
     "typescript": "^7"
   },
   "dependencies": {
-    "bulma": "^1.0.4"
+    "bulma": "^1.0.4",
+    "vue": "^3.5.43"
   }
 }
